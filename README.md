@@ -97,4 +97,4 @@ Explore other sections of our platform:
 We welcome your contributions and feedback!
 
 - ✍️ **Feedback**: [Submit an issue](https://github.com/wpacademy/talostools/issues)
-- 👨‍💻 **Contribution**: Feel free to open a PR to add new tools or improve existing ones.
+- 👨‍💻 **Contribution**: Interested in contributing to this platform? Follow the [CONTRIBUTORS](https://github.com/wpacademy/talostools/blob/main/CONTRIBUTORS.md) Guide
